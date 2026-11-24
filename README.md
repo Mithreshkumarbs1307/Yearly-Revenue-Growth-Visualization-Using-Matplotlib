@@ -41,6 +41,7 @@ To visualize the yearly trend of company revenue and expenses from 2017 to 2023 
 
 ## Program / Code
 ## Input 
+
 ```
 # Company Revenue and Expense Visualization using Matplotlib
 
@@ -99,6 +100,7 @@ plt.annotate(
 plt.tight_layout()
 
 plt.show()
+
 ```
 
 ## Output
